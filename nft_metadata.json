@@ -1,0 +1,15 @@
+{
+  "name": "Mi primer NFT",
+  "description": "Este es mi primer NFT creado utilizando el repositorio NFTs Upload to OpenSea.",
+  "image": "https://ipfs.io/ipfs/QmQW2xJENAd6kjXK6Y1v6KVWZmFEXgyKjNXmSsTpwT8AmC?filename=mi_primer_nft.png",
+  "attributes": [
+    {
+      "trait_type": "Creado por",
+      "value": "NFTDevs"
+    },
+    {
+      "trait_type": "Versión",
+      "value": "1.0"
+    }
+  ]
+}
